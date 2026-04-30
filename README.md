@@ -1,7 +1,7 @@
 # UTS-WEB2-task-manager
-Nama: Ginda Azahra
-Nim: 23552011281
-Kelas: TIF RM 23B
+Nama: Ginda Azahra  
+Nim: 23552011281  
+Kelas: TIF RM 23B  
 
 ## Deskripsi
 Backend sederhana menggunakan Node.js, Express, dan PostgreSQL.
